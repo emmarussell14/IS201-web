@@ -1,0 +1,19 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkgreen;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(227, 240, 181);
+    text-align: center;
+    padding: 8px;
+    background-color: darkgreen;
+  }
