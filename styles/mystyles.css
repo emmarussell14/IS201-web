@@ -1,4 +1,47 @@
 body {
-    background-color: cornsilk;
+    background-color: beige;
 }
 
+.navbar {
+    font-family: monospace;
+    padding: 10px;
+    color: antiquewhite;
+}
+
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: bisque;
+    text-align: center;
+    
+}
+
+.subheader {
+    font-family: cursive;
+    color: bisque;
+    text-align: end;
+}
+
+.content {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkgreen;
+    text-align: center;
+    text-decoration: double;
+}
+
+.post_link {
+    color: darkolivegreen;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+a {
+    color: rgb(97, 68, 11);
+    text-decoration: underline;
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
